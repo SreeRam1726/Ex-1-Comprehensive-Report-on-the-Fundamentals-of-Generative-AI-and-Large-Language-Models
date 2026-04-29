@@ -475,5 +475,5 @@ AI Index Report – Trends and evolution of AI.
 
 
 Result:
-omprehensive Report on the Fundamentals of Generative AI and Large Language Models is completed successfully.
+comprehensive Report on the Fundamentals of Generative AI and Large Language Models is completed successfully.
 
